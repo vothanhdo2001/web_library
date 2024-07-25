@@ -1,6 +1,11 @@
 
 # Notification Code
 
+## HTML
+```html
+    <div class="notification-container"></div>
+```
+
 ## JavaScript
 ```js
 // Create a container for notifications if it doesn't exist
