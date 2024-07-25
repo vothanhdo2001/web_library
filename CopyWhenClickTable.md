@@ -1,7 +1,7 @@
 
-#Copy when click table
+# Copy when click table
 
-##Javascript
+## Javascript
 ```js
 document.querySelector('.data-table').addEventListener('click', function(event) {
     var element = event.target;
