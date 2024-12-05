@@ -1,12 +1,14 @@
-# 🧑‍💻 **Võ Thành Đô**
+# <h1 align="center">🧑‍💻 **Võ Thành Đô**</h1>
 
-| **Position**            | .NET Developer                                  |
-|--------------------------|------------------------------------------------|
-| **Phone**               | (+84) 0399054682                               |
-| **Email**               | [vothanhdo20013@gmail.com](mailto:vothanhdo20013@gmail.com) |
-| **Date of Birth**       | 06/10/2001                                     |
-| **Address**             | Linh Trung Ward, Thu Duc City                  |
-| **GitHub**              | [github.com/vothanhdo2001](https://github.com/vothanhdo2001) |
+<div align="center">
+
+| **Field**              | **Details**                                     | **Field**           | **Details**                              |
+|-------------------------|------------------------------------------------|----------------------|------------------------------------------|
+| 📝 **Position**         | .NET Developer                                 | 🎂 **Date of Birth** | 06/10/2001                              |
+| 📱 **Phone**            | (+84) 0399054682                               | 📍 **Address**       | Linh Trung Ward, Thu Duc City           |
+| 📧 **Email**            | [vothanhdo20013@gmail.com](mailto:vothanhdo20013@gmail.com) | 🌐 **GitHub**        | [github.com/vothanhdo2001](https://github.com/vothanhdo2001) |
+
+</div>
 
 ---
 
@@ -25,10 +27,8 @@ Able to work under high pressure, both independently and in groups.
 
 ## 📚 **Education**
 
-<div align="center">
 <b>Information Systems Engineer</b>  
 University of Information Technology (UIT) | <i>Sep 2019 - Jul 2023</i>  
-</div>
 <p>
 - Graduated with a degree in Information Systems Engineering.
 </p>
